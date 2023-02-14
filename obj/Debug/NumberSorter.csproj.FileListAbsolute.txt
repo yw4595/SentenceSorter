@@ -1,0 +1,8 @@
+C:\Users\Wiz\Desktop\IGME 201\NumberSorter\bin\Debug\NumberSorter.exe.config
+C:\Users\Wiz\Desktop\IGME 201\NumberSorter\bin\Debug\NumberSorter.exe
+C:\Users\Wiz\Desktop\IGME 201\NumberSorter\bin\Debug\NumberSorter.pdb
+C:\Users\Wiz\Desktop\IGME 201\NumberSorter\obj\Debug\NumberSorter.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\IGME 201\NumberSorter\obj\Debug\NumberSorter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\IGME 201\NumberSorter\obj\Debug\NumberSorter.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\IGME 201\NumberSorter\obj\Debug\NumberSorter.exe
+C:\Users\Wiz\Desktop\IGME 201\NumberSorter\obj\Debug\NumberSorter.pdb
