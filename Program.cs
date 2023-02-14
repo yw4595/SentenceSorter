@@ -3,7 +3,7 @@
 namespace WordSorter
 {
     /// <summary>
-    /// Author: [Your Name]
+    /// Author: Yanzhi Wang
     /// Purpose: Sorts words in a sentence in ascending or descending alphabetical order.
     /// Restrictions: None
     /// </summary>
